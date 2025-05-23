@@ -11,3 +11,5 @@ __pycache__/
 *.egg
 
 .DS_Store
+
+anaconda_projects
