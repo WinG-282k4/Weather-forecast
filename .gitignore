@@ -1,4 +1,5 @@
 venv/
+<<<<<<< HEAD
 Clustering/
 Clean_data/cleaned_weather_data.csv
 
@@ -8,6 +9,8 @@ clustering_model/clean_data_train.csv
 clustering_model/processing.ipynb
 clustering_model/visualization.ipynb
 
+=======
+>>>>>>> e6cec8da9cbd25eb5cf49152836276e9c68591a1
 .idea
 __pycache__/
 *.pyc
